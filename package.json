@@ -3,7 +3,7 @@
 	"version": "3.1.1",
 	"description": "React for CLI",
 	"license": "MIT",
-	"repository": "vadimdemedes/ink",
+	"repository": "gnidan/ink",
 	"author": {
 		"name": "vdemedes",
 		"email": "vdemedes@gmail.com",
